@@ -26,8 +26,8 @@
 						<key>StyledText</key>
 						<data>
 						cnRmZAAAAAADAAAAAgAAAAcAAABU
-						WFQucnRmAQAAAC7PBgAAKwAAAAEA
-						AADHBgAAe1xydGYxXGFuc2lcYW5z
+						WFQucnRmAQAAAC7RBgAAKwAAAAEA
+						AADJBgAAe1xydGYxXGFuc2lcYW5z
 						aWNwZzkzNlxjb2NvYXJ0ZjI4MjIK
 						XGNvY29hdGV4dHNjYWxpbmcwXGNv
 						Y29hcGxhdGZvcm0we1xmb250dGJs
@@ -62,56 +62,57 @@
 						aWNraW5nIHBvc2l0aW9ucyBiYXNl
 						ZCBvbiBvdXIgZGV2aWNlIGJlZm9y
 						ZSBmaXJzdCB1c2UuIFNpbXBseSBj
-						bGljayB0aGUgdGhyZWUgKipHbyoq
-						IGJ1dHRvbnMgYmVsb3cgdG8gc2V0
-						IHRoZSBjbGlja2luZyBwb2ludHMs
-						IGFuZCB0aGUgbWFjcm8gd2lsbCB3
-						b3JrIGFzIGV4cGVjdGVkLlwKXAoK
-						XGYxIFwnYjFcJ2JlXCdiNlwnYWZc
-						J2Q3XCdmN1wnY2FcJ2I5XCdkM1wn
-						YzNcJ2NmXCdmMVwnY2JcJ2Q4XCdk
-						N1wnZjhcJ2IxXCdlYVwnYjVcJ2Uz
-						XCdiYlwnZjdcJ2NhXCdiNVwnY2Zc
-						J2Q2XCdhM1wnYThcJ2QyXCdmMiBN
-						YWMgT1MgXCdkN1wnYjRcJ2NjXCdh
-						Y1wnYzBcJ2I4XCdjZVwnYWFcJ2Iw
-						XCdlYlwnY2RcJ2I4XCdjM1wnZjdc
-						J2Q3XCdiNFwnY2NcJ2FjXCdhM1wn
-						YWNcJ2I1XCdiMVwnYjhcJ2MzXCdj
-						ZVwnYmJcJ2Q2XCdjM1wnY2ZcJ2My
-						XCdiN1wnYmRcJ2I4XCdmY1wnYmJc
-						J2JiXCdiNFwnYjBcJ2JmXCdkYVwn
-						YmJcJ2YyXCdjZlwnYjVcJ2NkXCdi
-						M1wnYjFcJ2RhXCdkNlwnYmRcJ2Nh
-						XCdiMVwnYTNcJ2FjXCdjYVwnYjZc
-						J2NkXCdiY1wnYjVcJ2UzXCdiYlwn
-						ZjdcJ2JjXCdjOFwnYmJcJ2UxXCdj
-						YVwnYTdcJ2QwXCdhN1wnYTNcJ2E5
-						XCdhM1wnYWNcJ2I5XCdjYVwnYjZc
-						J2Y4XCdkMFwnZThcJ2QyXCdhYVwn
-						ZDRcJ2RhXCdjYVwnZDdcJ2I0XCdj
-						ZVwnY2FcJ2I5XCdkM1wnYzNcJ2M3
-						XCdiMFwnYjhcJ2Y5XCdiZVwnZGRc
-						J2I4XCdmNlwnYzhcJ2NiXCdjOVwn
-						ZThcJ2IxXCdiOFwnYzdcJ2U5XCdi
-						ZlwnZjZcJ2M5XCdlOFwnZDZcJ2Mz
-						XCdiNVwnZTNcJ2JiXCdmN1wnYjVc
-						J2M0XCdjZlwnZjFcJ2NiXCdkOFwn
-						Y2VcJ2JiXCdkNlwnYzNcJ2ExXCdh
-						M1wnYjVcJ2UzXCdiYlwnZjdcJ2Nm
-						XCdjMlwnYjdcJ2JkXCdiNVwnYzRc
-						J2M4XCdmZFwnYjhcJ2Y2ICoqR28q
-						KiBcJ2IwXCdiNFwnYzVcJ2E1XCdi
-						MlwnYTJcJ2M5XCdlOFwnZDZcJ2Mz
-						XCdkMFwnZThcJ2I1XCdlM1wnYmJc
-						J2Y3XCdiNVwnYzRcJ2NmXCdmMVwn
-						Y2JcJ2Q4XCdjZVwnYmJcJ2Q2XCdj
-						M1wnYTNcJ2FjXCdkNlwnYWVcJ2Jh
-						XCdmM1wnYjFcJ2UzXCdiZlwnYzlc
-						J2NlXCdjOFwnYjZcJ2E4XCdkNFwn
-						Y2JcJ2QwXCdkMFwnYTFcJ2EzfQEA
-						AAAjAAAAAQAAAAcAAABUWFQucnRm
-						EAAAAHL8Omi2AQAAAAAAAAAAAAA=
+						bGljayB0aGUgdGhyZWUgKipHZXQq
+						KiBidXR0b25zIGJlbG93IHRvIHNl
+						dCB0aGUgY2xpY2tpbmcgcG9pbnRz
+						LCBhbmQgdGhlIG1hY3JvIHdpbGwg
+						d29yayBhcyBleHBlY3RlZC5cClwK
+						ClxmMSBcJ2IxXCdiZVwnYjZcJ2Fm
+						XCdkN1wnZjdcJ2NhXCdiOVwnZDNc
+						J2MzXCdjZlwnZjFcJ2NiXCdkOFwn
+						ZDdcJ2Y4XCdiMVwnZWFcJ2I1XCdl
+						M1wnYmJcJ2Y3XCdjYVwnYjVcJ2Nm
+						XCdkNlwnYTNcJ2E4XCdkMlwnZjIg
+						TWFjIE9TIFwnZDdcJ2I0XCdjY1wn
+						YWNcJ2MwXCdiOFwnY2VcJ2FhXCdi
+						MFwnZWJcJ2NkXCdiOFwnYzNcJ2Y3
+						XCdkN1wnYjRcJ2NjXCdhY1wnYTNc
+						J2FjXCdiNVwnYjFcJ2I4XCdjM1wn
+						Y2VcJ2JiXCdkNlwnYzNcJ2NmXCdj
+						MlwnYjdcJ2JkXCdiOFwnZmNcJ2Ji
+						XCdiYlwnYjRcJ2IwXCdiZlwnZGFc
+						J2JiXCdmMlwnY2ZcJ2I1XCdjZFwn
+						YjNcJ2IxXCdkYVwnZDZcJ2JkXCdj
+						YVwnYjFcJ2EzXCdhY1wnY2FcJ2I2
+						XCdjZFwnYmNcJ2I1XCdlM1wnYmJc
+						J2Y3XCdiY1wnYzhcJ2JiXCdlMVwn
+						Y2FcJ2E3XCdkMFwnYTdcJ2EzXCdh
+						OVwnYTNcJ2FjXCdiOVwnY2FcJ2I2
+						XCdmOFwnZDBcJ2U4XCdkMlwnYWFc
+						J2Q0XCdkYVwnY2FcJ2Q3XCdiNFwn
+						Y2VcJ2NhXCdiOVwnZDNcJ2MzXCdj
+						N1wnYjBcJ2I4XCdmOVwnYmVcJ2Rk
+						XCdiOFwnZjZcJ2M4XCdjYlwnYzlc
+						J2U4XCdiMVwnYjhcJ2M3XCdlOVwn
+						YmZcJ2Y2XCdjOVwnZThcJ2Q2XCdj
+						M1wnYjVcJ2UzXCdiYlwnZjdcJ2I1
+						XCdjNFwnY2ZcJ2YxXCdjYlwnZDhc
+						J2NlXCdiYlwnZDZcJ2MzXCdhMVwn
+						YTNcJ2I1XCdlM1wnYmJcJ2Y3XCdj
+						ZlwnYzJcJ2I3XCdiZFwnYjVcJ2M0
+						XCdjOFwnZmRcJ2I4XCdmNiAqKkdl
+						dCoqIFwnYjBcJ2I0XCdjNVwnYTVc
+						J2IyXCdhMlwnYzlcJ2U4XCdkNlwn
+						YzNcJ2QwXCdlOFwnYjVcJ2UzXCdi
+						YlwnZjdcJ2I1XCdjNFwnY2ZcJ2Yx
+						XCdjYlwnZDhcJ2NlXCdiYlwnZDZc
+						J2MzXCdhM1wnYWNcJ2Q2XCdhZVwn
+						YmFcJ2YzXCdiMVwnZTNcJ2JmXCdj
+						OVwnY2VcJ2M4XCdiNlwnYThcJ2Q0
+						XCdjYlwnZDBcJ2QwXCdhMVwnYTN9
+						AQAAACMAAAABAAAABwAAAFRYVC5y
+						dGYQAAAAmAU7aLYBAAAAAAAAAAAA
+						AA==
 						</data>
 						<key>Title</key>
 						<string>!! Set all the clicking positions based on your device before using the macro for the first time.  !! 首次使用前需要设置每个点击位置 !!</string>
@@ -272,7 +273,7 @@
 				<key>CustomIconData</key>
 				<string>KMEP-Sound</string>
 				<key>ModificationDate</key>
-				<real>770388977.786376</real>
+				<real>770391319.84760296</real>
 				<key>Name</key>
 				<string>Switch to HomePod</string>
 				<key>Triggers</key>
